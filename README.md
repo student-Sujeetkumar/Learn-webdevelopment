@@ -2,4 +2,4 @@
 
 This is my first repository
 <br>
-author-sujeet (babu)
+author-sujeet (Babu)
